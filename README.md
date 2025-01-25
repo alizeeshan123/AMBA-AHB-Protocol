@@ -1,7 +1,5 @@
-# "Advanced High Performance Bus Communication Protocol of Advanced Microcontroller Bus Architecture"
-
-AMBA Research Paper from Department of ECE, NIT Agartala, India.
-Authorized by "Dr. Priyanka Choudhury" and "Perumalla Giridhar"
+# Design and Implementation of AMBA AHB Protocol from AMBA Research Paper of Department of ECE, NIT Agartala, India.
+# Authorized by "Dr. Priyanka Choudhury" and "Perumalla Giridhar"
 
 Block Diagram of AHB Master Protocol:
 
